@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Solo Leveling</string>
+
+    <string name="Open">Открыто</string>
+    <string name="Close">Закрыто</string>
+    <string name="workout_timer">Время тренеровки</string>
+    <string name="profile_creation">Создать профиль</string>
+    <string name="calorie_calculator">Калькулятор калорий</string>
+    <string name="calorie_tracker">Измерение калорий</string>
+    <string name="training_splits">Сплит-тренеровки</string>
+    <string name="_60">60</string>
+    <string name="calories_taken">Потребляемые калории = 0 ККАЛ</string>
+    <string name="calories">Калории</string>
+    <string name="kcal">ККАЛ</string>
+    <string name="reset">Сброс</string>
+    <string name="enter_age">Возраст</string>
+    <string name="enter_height_in_cm">Рост (см)</string>
+    <string name="enter_weight_in_kg">Вес (кг)</string>
+    <string name="enter_gender">Пол</string>
+
+
+    <array name="gender">
+        <item>Мужской</item>
+        <item>Женский</item>
+        <item>Другое</item>
+    </array>
+</resources>
